@@ -18,3 +18,22 @@ This project is designed to detect ADHD (Attention Deficit Hyperactivity Disorde
 2. Install the required libraries using:
    ```bash
    pip install -r requirements.txt
+   ## Project Screenshots
+
+### 1. Web Application Interface
+![Home Page](image/01_home_page.png)
+![Input Video](image/02_pose_prediction.png)
+![Pose Estimation](image/03_pose_estimation.png)
+![Detection Process](image/04_pose_detection.png)
+![Final Result](image/05_final_result.png)
+
+## System Design & Diagrams
+
+### Architecture Diagram
+![Architecture](image/architecture.png)
+
+### UML Diagrams
+* **Activity Diagram:** ![Activity](image/activity.png)
+* **Class Diagram:** ![Class](image/class.png)
+* **Sequence Diagram:** ![Sequence](image/sequence.png)
+* **Usecase Diagram:** ![Usecase](image/usecase.png)
